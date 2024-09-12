@@ -1,0 +1,64 @@
+{
+    "name": "#Uliya",
+    "short_name": "#Uliya",
+    "description": "Bienvenid@s a #Ulia, este es un sitio web de fotografia :)",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "./images/logo0.png",
+        "sizes": "1023x731",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/logo1.png",
+        "sizes": "512x366",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/logo2.png",
+        "sizes": "384x274",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/logo3.png",
+        "sizes": "256x183",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/logo4.png",
+        "sizes": "192x137",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/logo5.png",
+        "sizes": "127x91",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/logo6.png",
+        "sizes": "96x69",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/logo7.png",
+        "sizes": "64x46",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/logo8.png",
+        "sizes": "32x23",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/loguillo.png",
+        "sizes": "16x12",
+        "type": "image/png"
+      }
+    ]
+  }
